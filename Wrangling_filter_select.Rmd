@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling - Part I"
 subtitle: "StatPREP R Workshops"
-author: "Your Name"
+author: "Luis Jovel Palacios"
 output: html_document
 ---
 
